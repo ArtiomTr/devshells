@@ -1,0 +1,4 @@
+{
+  builder = "rust";
+  toolchainVersion = "stable";
+}
